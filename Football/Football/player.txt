@@ -1,0 +1,11 @@
+Andrey Petya1 Petrovich1 2 poluzashitnik 01.10.1990 true 
+Petrov2 Petya2 Petrovich2 3 napadayshii 22.11.1994 true 
+Petrov3 Petya3 Petrovich3 4 zashitik 12.05.1986 false 
+Petrov4 Petya4 Petrovich4 5 zashitik 02.09.1992 true 
+Petrov5 Petya5 Petrovich5 6 poluzashitnik 24.08.1996 false 
+Petrov6 Petya6 Petrovich6 7 zashitik 30.12.1994 true 
+Petrov7 Petya7 Petrovich7 8 poluzashitnik 10.09.1985 true 
+Petrov8 Petya8 Petrovich8 9 napadayshii 28.11.1980 false 
+Petrov9 Petya9 Petrovich9 10 poluzashitnik 03.01.1989 true 
+Petrov10 Petya10 Petrovich10 11 vratar 02.09.1990 true 
+1 2 3 4 5 6 7 
